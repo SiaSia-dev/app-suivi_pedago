@@ -155,7 +155,6 @@ def main():
         else:
             st.success('Aucun apprenant ne nécessite actuellement un accompagnement spécifique')
 
-# Point d'entrée de l'application
 if __name__ == '__main__':
     main()
 
