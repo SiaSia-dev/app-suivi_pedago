@@ -159,7 +159,7 @@ def main():
 if __name__ == '__main__':
     main()
 
-# Instructions d'installation
+# Présentation
 """
 Il s'agit d'un prototype d'application de suivi pédagogique personnalisé pour les apprenants.
 """
