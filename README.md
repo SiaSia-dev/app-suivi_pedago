@@ -38,5 +38,5 @@ Les contributions sont les bienvenues. Merci de créer une issue ou une pull req
 
 ## Licence
 
-[À DÉFINIR - Par exemple MIT ou Apache 2.0]
+MIT
 ```
